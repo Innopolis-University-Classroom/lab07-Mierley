@@ -3,7 +3,7 @@
 // also fill out the body
 
 template <class NUM>
-public class Calculator {
+class Calculator {
 private:
     NUM num1, num2;
 
